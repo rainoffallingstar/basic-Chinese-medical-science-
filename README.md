@@ -55,9 +55,13 @@ reference	68
 
 ## 下一步的计划
 1. 遗漏部分的增加，比如闻诊与切诊
-2. 中药与方剂的介绍及循证医学证据的完善
+2. 中药与方剂的介绍及循证医学证据的完善，在以下两个文件里更新
+> 在dailywork 中药 https://github.com/rainoffallingstar/basic-Chinese-medical-science-/blob/master/dailywork%20%E4%B8%AD%E8%8D%AF.md
+
+> dailywork 方剂 
+
 3. 其他，如排版，图片的插入
-> 在dailywork 中药 & dailywork 方剂 两个文件里更新
+
 > 适当的时机发布整合的v2
 ## 版权说明
 采用AGPL3协议。
