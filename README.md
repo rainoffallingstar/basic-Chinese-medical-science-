@@ -58,7 +58,7 @@ reference	68
 2. 中药与方剂的介绍及循证医学证据的完善，在以下两个文件里更新
 > 在dailywork 中药 https://github.com/rainoffallingstar/basic-Chinese-medical-science-/blob/master/dailywork%20%E4%B8%AD%E8%8D%AF.md
 
-> dailywork 方剂 
+> dailywork 方剂 https://github.com/rainoffallingstar/basic-Chinese-medical-science-/blob/master/dailywork%20%E6%96%B9%E5%89%82.md
 
 3. 其他，如排版，图片的插入
 
