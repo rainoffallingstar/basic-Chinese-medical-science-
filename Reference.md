@@ -16,4 +16,5 @@ reference
 [15]王永炎,刘保延,谢雁鸣.应用循证医学方法构建中医临床评价体系[J].中国中医基础医学杂志,2003,03:17-23.
 [16]陈敏,何佳,肖飏,黄睿,周智凤,陈春雨,王飞.国内期刊发表的中医药系统评价/Meta分析的现状分析[J].中国循证医学杂志,2012,1212:1526-1530.
 [17]陈光亮.银翘汤与盐酸左氧氟沙星联合治疗肺炎的效果观察[J].临床医药文献电子杂志,2018,5(47):132+134.
-
+[18]Wu Z, Kong X, Zhang T, et al.Pseudoephedrine/ephedrine shows potent anti-inflammatory activity against TNF-a-mediated acute liver failure induced by lipopolysaccharide/D-galactosamine[J].Eur JPharmacol, 2014, 724:112.
+[19]韩燕, 祝峻峰, 吴中平.麻黄对半乳糖胺/脂多糖诱导的大鼠急性肝衰竭的保护作用[J].中华肝脏病杂志, 2016, 24 (2) :127.）
