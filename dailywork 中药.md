@@ -43,3 +43,18 @@
 ([22]GUO J,LIN P,ZHAO X,et al.Etazolate abrogates the lipopolysaccharide(LPS)-induced downregulation of the cAMP/pCREB/BDNF signaling,neuroinflammatory response and depressive-like behavior in mice[J].Neuroscience,2014,263(4):1-14.
 [23] ZHANG G,ZHANG T,LI N,et al.Tetramethylpyrazine nitrone activates the BDNF/Akt/CREB pathway to promote post-ischaemic neuroregeneration and recovery of neurological functions in rats[J].British Journal of Pharmacology,2018,175(3):517-531.
 [24]余汇，陈佳佳，曾冰清，等.cAMP/CREB/BDNF信号通路在沃替西汀抗小鼠抑郁样行为中的作用[J].南方医科大学学报，2017,37(1):107-112.)
+
+4.葛根
+ 【 性味归经 ] 甘 、辛 , 凉 。 归脾 、 胃 经 。
+【 功效主治 】1 .发表解肌用治外感表证。 属风寒者 , 常与麻黄、桂枝等同用 ;属风热者 , 常与柴胡 、黄芩等同用。
+2.生津止渴用治热病 口 渴或消渴 , 可单用或与天花粉 、麦冬等 同用 。
+3.透发麻疹用治麻疹初起或疹 出 不畅 , 常与升麻 、 白 芍等同用 。
+4.升阳止泻用治脾虚泄泻 , 常与党参 、 白 术等配伍 ; 湿热泻痢 , 常与黄芩 、黄连等同用 。
+5. 感冒发热,头痛项背强硬。
+热痛口渴或消渴症。
+麻疹透发不畅,或发热口渴伴有腹泻。
+本品可缓解高血压颈项硬疼痛。
+临床发现对心脑血管疾病有一定的疗效
+【 用法用 呈 ] 煎服 ,9 - 15g。 发表解肌 、生津止渴 、透疹生用 ; 升 阳 止泻煨用 。
+【 使用注意 】 夏 日 表虚多汗及 胃 寒者慎用
+[文献研究]
